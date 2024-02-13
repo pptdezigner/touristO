@@ -1,0 +1,282 @@
+D:\Visual Studio 2019\source\repos\MVAC\MVAC\bin\MVAC.dll.config
+D:\Visual Studio 2019\source\repos\MVAC\MVAC\bin\MVAC.dll
+D:\Visual Studio 2019\source\repos\MVAC\MVAC\bin\MVAC.pdb
+D:\Visual Studio 2019\source\repos\MVAC\MVAC\bin\roslyn\csc.exe
+D:\Visual Studio 2019\source\repos\MVAC\MVAC\bin\roslyn\csc.exe.config
+D:\Visual Studio 2019\source\repos\MVAC\MVAC\bin\roslyn\csc.rsp
+D:\Visual Studio 2019\source\repos\MVAC\MVAC\bin\roslyn\csi.exe
+D:\Visual Studio 2019\source\repos\MVAC\MVAC\bin\roslyn\csi.exe.config
+D:\Visual Studio 2019\source\repos\MVAC\MVAC\bin\roslyn\csi.rsp
+D:\Visual Studio 2019\source\repos\MVAC\MVAC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Visual Studio 2019\source\repos\MVAC\MVAC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Visual Studio 2019\source\repos\MVAC\MVAC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Visual Studio 2019\source\repos\MVAC\MVAC\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Visual Studio 2019\source\repos\MVAC\MVAC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Visual Studio 2019\source\repos\MVAC\MVAC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Visual Studio 2019\source\repos\MVAC\MVAC\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Visual Studio 2019\source\repos\MVAC\MVAC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Visual Studio 2019\source\repos\MVAC\MVAC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Visual Studio 2019\source\repos\MVAC\MVAC\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Visual Studio 2019\source\repos\MVAC\MVAC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Visual Studio 2019\source\repos\MVAC\MVAC\bin\roslyn\System.AppContext.dll
+D:\Visual Studio 2019\source\repos\MVAC\MVAC\bin\roslyn\System.Collections.Immutable.dll
+D:\Visual Studio 2019\source\repos\MVAC\MVAC\bin\roslyn\System.Console.dll
+D:\Visual Studio 2019\source\repos\MVAC\MVAC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Visual Studio 2019\source\repos\MVAC\MVAC\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Visual Studio 2019\source\repos\MVAC\MVAC\bin\roslyn\System.IO.Compression.dll
+D:\Visual Studio 2019\source\repos\MVAC\MVAC\bin\roslyn\System.IO.FileSystem.dll
+D:\Visual Studio 2019\source\repos\MVAC\MVAC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Visual Studio 2019\source\repos\MVAC\MVAC\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Visual Studio 2019\source\repos\MVAC\MVAC\bin\roslyn\System.IO.Pipes.dll
+D:\Visual Studio 2019\source\repos\MVAC\MVAC\bin\roslyn\System.Reflection.Metadata.dll
+D:\Visual Studio 2019\source\repos\MVAC\MVAC\bin\roslyn\System.Security.AccessControl.dll
+D:\Visual Studio 2019\source\repos\MVAC\MVAC\bin\roslyn\System.Security.Claims.dll
+D:\Visual Studio 2019\source\repos\MVAC\MVAC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Visual Studio 2019\source\repos\MVAC\MVAC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Visual Studio 2019\source\repos\MVAC\MVAC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Visual Studio 2019\source\repos\MVAC\MVAC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Visual Studio 2019\source\repos\MVAC\MVAC\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Visual Studio 2019\source\repos\MVAC\MVAC\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Visual Studio 2019\source\repos\MVAC\MVAC\bin\roslyn\System.ValueTuple.dll
+D:\Visual Studio 2019\source\repos\MVAC\MVAC\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Visual Studio 2019\source\repos\MVAC\MVAC\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Visual Studio 2019\source\repos\MVAC\MVAC\bin\roslyn\System.Xml.XPath.dll
+D:\Visual Studio 2019\source\repos\MVAC\MVAC\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Visual Studio 2019\source\repos\MVAC\MVAC\bin\roslyn\vbc.exe
+D:\Visual Studio 2019\source\repos\MVAC\MVAC\bin\roslyn\vbc.exe.config
+D:\Visual Studio 2019\source\repos\MVAC\MVAC\bin\roslyn\vbc.rsp
+D:\Visual Studio 2019\source\repos\MVAC\MVAC\bin\roslyn\VBCSCompiler.exe
+D:\Visual Studio 2019\source\repos\MVAC\MVAC\bin\roslyn\VBCSCompiler.exe.config
+D:\Visual Studio 2019\source\repos\MVAC\MVAC\bin\Antlr3.Runtime.dll
+D:\Visual Studio 2019\source\repos\MVAC\MVAC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Visual Studio 2019\source\repos\MVAC\MVAC\bin\Microsoft.Web.Infrastructure.dll
+D:\Visual Studio 2019\source\repos\MVAC\MVAC\bin\Newtonsoft.Json.dll
+D:\Visual Studio 2019\source\repos\MVAC\MVAC\bin\System.Web.Helpers.dll
+D:\Visual Studio 2019\source\repos\MVAC\MVAC\bin\System.Web.Mvc.dll
+D:\Visual Studio 2019\source\repos\MVAC\MVAC\bin\System.Web.Optimization.dll
+D:\Visual Studio 2019\source\repos\MVAC\MVAC\bin\System.Web.Razor.dll
+D:\Visual Studio 2019\source\repos\MVAC\MVAC\bin\System.Web.WebPages.Deployment.dll
+D:\Visual Studio 2019\source\repos\MVAC\MVAC\bin\System.Web.WebPages.dll
+D:\Visual Studio 2019\source\repos\MVAC\MVAC\bin\System.Web.WebPages.Razor.dll
+D:\Visual Studio 2019\source\repos\MVAC\MVAC\bin\WebGrease.dll
+D:\Visual Studio 2019\source\repos\MVAC\MVAC\bin\System.Web.Helpers.xml
+D:\Visual Studio 2019\source\repos\MVAC\MVAC\bin\System.Web.Mvc.xml
+D:\Visual Studio 2019\source\repos\MVAC\MVAC\bin\System.Web.Optimization.xml
+D:\Visual Studio 2019\source\repos\MVAC\MVAC\bin\System.Web.Razor.xml
+D:\Visual Studio 2019\source\repos\MVAC\MVAC\bin\System.Web.WebPages.xml
+D:\Visual Studio 2019\source\repos\MVAC\MVAC\bin\System.Web.WebPages.Deployment.xml
+D:\Visual Studio 2019\source\repos\MVAC\MVAC\bin\System.Web.WebPages.Razor.xml
+D:\Visual Studio 2019\source\repos\MVAC\MVAC\bin\Newtonsoft.Json.xml
+D:\Visual Studio 2019\source\repos\MVAC\MVAC\bin\Antlr3.Runtime.pdb
+D:\Visual Studio 2019\source\repos\MVAC\MVAC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Visual Studio 2019\source\repos\MVAC\MVAC\obj\Debug\MVAC.csprojAssemblyReference.cache
+D:\Visual Studio 2019\source\repos\MVAC\MVAC\obj\Debug\MVAC.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2019\source\repos\MVAC\MVAC\obj\Debug\MVAC.csproj.CopyComplete
+D:\Visual Studio 2019\source\repos\MVAC\MVAC\obj\Debug\MVAC.dll
+D:\Visual Studio 2019\source\repos\MVAC\MVAC\obj\Debug\MVAC.pdb
+D:\Visual Studio 2019\source\repos\MVAC\MVAC\bin\PayPal.dll
+D:\Visual Studio 2019\source\repos\MVAC\MVAC\bin\PayPal.xml
+D:\Visual Studio 2019\source\repos\MVAC\MVAC\bin\EntityFramework.dll
+D:\Visual Studio 2019\source\repos\MVAC\MVAC\bin\EntityFramework.SqlServer.dll
+D:\Visual Studio 2019\source\repos\MVAC\MVAC\bin\EntityFramework.xml
+D:\Visual Studio 2019\source\repos\MVAC\MVAC\bin\EntityFramework.SqlServer.xml
+D:\Visual Studio 2019\source\repos\MVAC\MVAC\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Visual Studio 2019\source\repos\MVAC\MVAC\bin\Microsoft.Owin.dll
+D:\Visual Studio 2019\source\repos\MVAC\MVAC\bin\Owin.dll
+D:\Visual Studio 2019\source\repos\MVAC\MVAC\bin\Stripe.net.dll
+D:\Visual Studio 2019\source\repos\MVAC\MVAC\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Visual Studio 2019\source\repos\MVAC\MVAC\bin\System.Threading.Tasks.Extensions.dll
+D:\Visual Studio 2019\source\repos\MVAC\MVAC\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Visual Studio 2019\source\repos\MVAC\MVAC\bin\Microsoft.Owin.xml
+D:\Visual Studio 2019\source\repos\MVAC\MVAC\bin\Stripe.net.pdb
+D:\Visual Studio 2019\source\repos\MVAC\MVAC\bin\Stripe.net.xml
+D:\Visual Studio 2019\source\repos\MVAC\MVAC\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Visual Studio 2019\source\repos\MVAC\MVAC\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Kiran\Desktop\MVAC\MVAC\bin\MVAC.dll.config
+C:\Users\Kiran\Desktop\MVAC\MVAC\bin\MVAC.dll
+C:\Users\Kiran\Desktop\MVAC\MVAC\bin\MVAC.pdb
+C:\Users\Kiran\Desktop\MVAC\MVAC\bin\roslyn\csc.exe
+C:\Users\Kiran\Desktop\MVAC\MVAC\bin\roslyn\csc.exe.config
+C:\Users\Kiran\Desktop\MVAC\MVAC\bin\roslyn\csc.rsp
+C:\Users\Kiran\Desktop\MVAC\MVAC\bin\roslyn\csi.exe
+C:\Users\Kiran\Desktop\MVAC\MVAC\bin\roslyn\csi.exe.config
+C:\Users\Kiran\Desktop\MVAC\MVAC\bin\roslyn\csi.rsp
+C:\Users\Kiran\Desktop\MVAC\MVAC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Kiran\Desktop\MVAC\MVAC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Kiran\Desktop\MVAC\MVAC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Kiran\Desktop\MVAC\MVAC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Kiran\Desktop\MVAC\MVAC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Kiran\Desktop\MVAC\MVAC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Kiran\Desktop\MVAC\MVAC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Kiran\Desktop\MVAC\MVAC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Kiran\Desktop\MVAC\MVAC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Kiran\Desktop\MVAC\MVAC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Kiran\Desktop\MVAC\MVAC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Kiran\Desktop\MVAC\MVAC\bin\roslyn\System.AppContext.dll
+C:\Users\Kiran\Desktop\MVAC\MVAC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Kiran\Desktop\MVAC\MVAC\bin\roslyn\System.Console.dll
+C:\Users\Kiran\Desktop\MVAC\MVAC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Kiran\Desktop\MVAC\MVAC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Kiran\Desktop\MVAC\MVAC\bin\roslyn\System.IO.Compression.dll
+C:\Users\Kiran\Desktop\MVAC\MVAC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Kiran\Desktop\MVAC\MVAC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Kiran\Desktop\MVAC\MVAC\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Kiran\Desktop\MVAC\MVAC\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Kiran\Desktop\MVAC\MVAC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Kiran\Desktop\MVAC\MVAC\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Kiran\Desktop\MVAC\MVAC\bin\roslyn\System.Security.Claims.dll
+C:\Users\Kiran\Desktop\MVAC\MVAC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Kiran\Desktop\MVAC\MVAC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Kiran\Desktop\MVAC\MVAC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Kiran\Desktop\MVAC\MVAC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Kiran\Desktop\MVAC\MVAC\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Kiran\Desktop\MVAC\MVAC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Kiran\Desktop\MVAC\MVAC\bin\roslyn\System.ValueTuple.dll
+C:\Users\Kiran\Desktop\MVAC\MVAC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Kiran\Desktop\MVAC\MVAC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Kiran\Desktop\MVAC\MVAC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Kiran\Desktop\MVAC\MVAC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Kiran\Desktop\MVAC\MVAC\bin\roslyn\vbc.exe
+C:\Users\Kiran\Desktop\MVAC\MVAC\bin\roslyn\vbc.exe.config
+C:\Users\Kiran\Desktop\MVAC\MVAC\bin\roslyn\vbc.rsp
+C:\Users\Kiran\Desktop\MVAC\MVAC\bin\roslyn\VBCSCompiler.exe
+C:\Users\Kiran\Desktop\MVAC\MVAC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Kiran\Desktop\MVAC\MVAC\bin\Antlr3.Runtime.dll
+C:\Users\Kiran\Desktop\MVAC\MVAC\bin\EntityFramework.dll
+C:\Users\Kiran\Desktop\MVAC\MVAC\bin\EntityFramework.SqlServer.dll
+C:\Users\Kiran\Desktop\MVAC\MVAC\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Kiran\Desktop\MVAC\MVAC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Kiran\Desktop\MVAC\MVAC\bin\Microsoft.Owin.dll
+C:\Users\Kiran\Desktop\MVAC\MVAC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Kiran\Desktop\MVAC\MVAC\bin\Newtonsoft.Json.dll
+C:\Users\Kiran\Desktop\MVAC\MVAC\bin\Owin.dll
+C:\Users\Kiran\Desktop\MVAC\MVAC\bin\PayPal.dll
+C:\Users\Kiran\Desktop\MVAC\MVAC\bin\Stripe.net.dll
+C:\Users\Kiran\Desktop\MVAC\MVAC\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Kiran\Desktop\MVAC\MVAC\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Kiran\Desktop\MVAC\MVAC\bin\System.Web.Helpers.dll
+C:\Users\Kiran\Desktop\MVAC\MVAC\bin\System.Web.Mvc.dll
+C:\Users\Kiran\Desktop\MVAC\MVAC\bin\System.Web.Optimization.dll
+C:\Users\Kiran\Desktop\MVAC\MVAC\bin\System.Web.Razor.dll
+C:\Users\Kiran\Desktop\MVAC\MVAC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Kiran\Desktop\MVAC\MVAC\bin\System.Web.WebPages.dll
+C:\Users\Kiran\Desktop\MVAC\MVAC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Kiran\Desktop\MVAC\MVAC\bin\WebGrease.dll
+C:\Users\Kiran\Desktop\MVAC\MVAC\bin\EntityFramework.xml
+C:\Users\Kiran\Desktop\MVAC\MVAC\bin\EntityFramework.SqlServer.xml
+C:\Users\Kiran\Desktop\MVAC\MVAC\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Kiran\Desktop\MVAC\MVAC\bin\Microsoft.Owin.xml
+C:\Users\Kiran\Desktop\MVAC\MVAC\bin\PayPal.xml
+C:\Users\Kiran\Desktop\MVAC\MVAC\bin\Stripe.net.pdb
+C:\Users\Kiran\Desktop\MVAC\MVAC\bin\Stripe.net.xml
+C:\Users\Kiran\Desktop\MVAC\MVAC\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Kiran\Desktop\MVAC\MVAC\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Kiran\Desktop\MVAC\MVAC\bin\System.Web.Helpers.xml
+C:\Users\Kiran\Desktop\MVAC\MVAC\bin\System.Web.Mvc.xml
+C:\Users\Kiran\Desktop\MVAC\MVAC\bin\System.Web.Optimization.xml
+C:\Users\Kiran\Desktop\MVAC\MVAC\bin\System.Web.Razor.xml
+C:\Users\Kiran\Desktop\MVAC\MVAC\bin\System.Web.WebPages.xml
+C:\Users\Kiran\Desktop\MVAC\MVAC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Kiran\Desktop\MVAC\MVAC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Kiran\Desktop\MVAC\MVAC\bin\Newtonsoft.Json.xml
+C:\Users\Kiran\Desktop\MVAC\MVAC\bin\Antlr3.Runtime.pdb
+C:\Users\Kiran\Desktop\MVAC\MVAC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Kiran\Desktop\MVAC\MVAC\obj\Debug\MVAC.csprojAssemblyReference.cache
+C:\Users\Kiran\Desktop\MVAC\MVAC\obj\Debug\MVAC.csproj.CoreCompileInputs.cache
+C:\Users\Kiran\Desktop\MVAC\MVAC\obj\Debug\MVAC.csproj.CopyComplete
+C:\Users\Kiran\Desktop\MVAC\MVAC\obj\Debug\MVAC.dll
+C:\Users\Kiran\Desktop\MVAC\MVAC\obj\Debug\MVAC.pdb
+E:\MVAC\MVAC\bin\MVAC.dll.config
+E:\MVAC\MVAC\bin\MVAC.dll
+E:\MVAC\MVAC\bin\MVAC.pdb
+E:\MVAC\MVAC\bin\roslyn\csc.exe
+E:\MVAC\MVAC\bin\roslyn\csc.exe.config
+E:\MVAC\MVAC\bin\roslyn\csc.rsp
+E:\MVAC\MVAC\bin\roslyn\csi.exe
+E:\MVAC\MVAC\bin\roslyn\csi.exe.config
+E:\MVAC\MVAC\bin\roslyn\csi.rsp
+E:\MVAC\MVAC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\MVAC\MVAC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\MVAC\MVAC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\MVAC\MVAC\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\MVAC\MVAC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\MVAC\MVAC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\MVAC\MVAC\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\MVAC\MVAC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\MVAC\MVAC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\MVAC\MVAC\bin\roslyn\Microsoft.Managed.Core.targets
+E:\MVAC\MVAC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\MVAC\MVAC\bin\roslyn\System.AppContext.dll
+E:\MVAC\MVAC\bin\roslyn\System.Collections.Immutable.dll
+E:\MVAC\MVAC\bin\roslyn\System.Console.dll
+E:\MVAC\MVAC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\MVAC\MVAC\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\MVAC\MVAC\bin\roslyn\System.IO.Compression.dll
+E:\MVAC\MVAC\bin\roslyn\System.IO.FileSystem.dll
+E:\MVAC\MVAC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\MVAC\MVAC\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\MVAC\MVAC\bin\roslyn\System.IO.Pipes.dll
+E:\MVAC\MVAC\bin\roslyn\System.Reflection.Metadata.dll
+E:\MVAC\MVAC\bin\roslyn\System.Security.AccessControl.dll
+E:\MVAC\MVAC\bin\roslyn\System.Security.Claims.dll
+E:\MVAC\MVAC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\MVAC\MVAC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\MVAC\MVAC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\MVAC\MVAC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\MVAC\MVAC\bin\roslyn\System.Security.Principal.Windows.dll
+E:\MVAC\MVAC\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\MVAC\MVAC\bin\roslyn\System.ValueTuple.dll
+E:\MVAC\MVAC\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\MVAC\MVAC\bin\roslyn\System.Xml.XmlDocument.dll
+E:\MVAC\MVAC\bin\roslyn\System.Xml.XPath.dll
+E:\MVAC\MVAC\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\MVAC\MVAC\bin\roslyn\vbc.exe
+E:\MVAC\MVAC\bin\roslyn\vbc.exe.config
+E:\MVAC\MVAC\bin\roslyn\vbc.rsp
+E:\MVAC\MVAC\bin\roslyn\VBCSCompiler.exe
+E:\MVAC\MVAC\bin\roslyn\VBCSCompiler.exe.config
+E:\MVAC\MVAC\bin\Antlr3.Runtime.dll
+E:\MVAC\MVAC\bin\EntityFramework.dll
+E:\MVAC\MVAC\bin\EntityFramework.SqlServer.dll
+E:\MVAC\MVAC\bin\Microsoft.Bcl.AsyncInterfaces.dll
+E:\MVAC\MVAC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\MVAC\MVAC\bin\Microsoft.Owin.dll
+E:\MVAC\MVAC\bin\Microsoft.Web.Infrastructure.dll
+E:\MVAC\MVAC\bin\Newtonsoft.Json.dll
+E:\MVAC\MVAC\bin\Owin.dll
+E:\MVAC\MVAC\bin\PayPal.dll
+E:\MVAC\MVAC\bin\Stripe.net.dll
+E:\MVAC\MVAC\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\MVAC\MVAC\bin\System.Threading.Tasks.Extensions.dll
+E:\MVAC\MVAC\bin\System.Web.Helpers.dll
+E:\MVAC\MVAC\bin\System.Web.Mvc.dll
+E:\MVAC\MVAC\bin\System.Web.Optimization.dll
+E:\MVAC\MVAC\bin\System.Web.Razor.dll
+E:\MVAC\MVAC\bin\System.Web.WebPages.Deployment.dll
+E:\MVAC\MVAC\bin\System.Web.WebPages.dll
+E:\MVAC\MVAC\bin\System.Web.WebPages.Razor.dll
+E:\MVAC\MVAC\bin\WebGrease.dll
+E:\MVAC\MVAC\bin\EntityFramework.xml
+E:\MVAC\MVAC\bin\EntityFramework.SqlServer.xml
+E:\MVAC\MVAC\bin\Microsoft.Bcl.AsyncInterfaces.xml
+E:\MVAC\MVAC\bin\Microsoft.Owin.xml
+E:\MVAC\MVAC\bin\PayPal.xml
+E:\MVAC\MVAC\bin\Stripe.net.pdb
+E:\MVAC\MVAC\bin\Stripe.net.xml
+E:\MVAC\MVAC\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\MVAC\MVAC\bin\System.Threading.Tasks.Extensions.xml
+E:\MVAC\MVAC\bin\System.Web.Helpers.xml
+E:\MVAC\MVAC\bin\System.Web.Mvc.xml
+E:\MVAC\MVAC\bin\System.Web.Optimization.xml
+E:\MVAC\MVAC\bin\System.Web.Razor.xml
+E:\MVAC\MVAC\bin\System.Web.WebPages.xml
+E:\MVAC\MVAC\bin\System.Web.WebPages.Deployment.xml
+E:\MVAC\MVAC\bin\System.Web.WebPages.Razor.xml
+E:\MVAC\MVAC\bin\Newtonsoft.Json.xml
+E:\MVAC\MVAC\bin\Antlr3.Runtime.pdb
+E:\MVAC\MVAC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\MVAC\MVAC\obj\Debug\MVAC.csprojAssemblyReference.cache
+E:\MVAC\MVAC\obj\Debug\MVAC.csproj.CoreCompileInputs.cache
+E:\MVAC\MVAC\obj\Debug\MVAC.csproj.CopyComplete
+E:\MVAC\MVAC\obj\Debug\MVAC.dll
+E:\MVAC\MVAC\obj\Debug\MVAC.pdb
